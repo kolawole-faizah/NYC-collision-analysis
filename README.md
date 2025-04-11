@@ -8,7 +8,7 @@ This project is focused on analyzing and deriving insight to mitigate accidents 
 
 ## Data source
 The primary data source for this project is 'NYC collision.xlsx' and it contains information about the date of collision, type of vehicle, street name, contributing factor and others.
-[Dataset]()
+[Dataset](https://github.com/kolawole-faizah/NYC-collision-analysis/blob/main/NYC%20collision.xlsx)
 
 ## Tool
 - Microsoft Excel
